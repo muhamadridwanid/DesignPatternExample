@@ -1,0 +1,2 @@
+# DesignPatternExample
+Contoh Design pattern
